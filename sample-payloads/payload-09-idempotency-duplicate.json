@@ -1,0 +1,9 @@
+{
+  "_note": "DUPLICATE of payload-01. Send 3x to prove idempotency \u2014 only 1 record should appear in the sheet.",
+  "name": "Priya Sharma",
+  "email": "priya.sharma@techcorp.io",
+  "company": "TechCorp Solutions",
+  "message": "Our integration with your API is failing in production. Thousands of users are affected and we need immediate assistance to restore service.",
+  "urgency": "high",
+  "product": "API Gateway"
+}

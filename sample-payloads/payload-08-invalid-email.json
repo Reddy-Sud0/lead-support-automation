@@ -1,0 +1,8 @@
+{
+  "name": "Test User",
+  "email": "not-an-email-address",
+  "company": "Test Inc",
+  "message": "I need help with my account setup and onboarding process.",
+  "urgency": "normal",
+  "product": "Onboarding"
+}

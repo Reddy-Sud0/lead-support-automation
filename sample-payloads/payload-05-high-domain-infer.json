@@ -1,0 +1,8 @@
+{
+  "name": "Emily Chen",
+  "email": "emily.chen@cloudstack.dev",
+  "company": "",
+  "message": "We're experiencing complete outage on our authentication module after your latest update. This is blocking 5000 active users. Need immediate hotfix.",
+  "urgency": "high",
+  "product": "Auth Module"
+}
