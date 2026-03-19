@@ -8,7 +8,7 @@ A production-grade n8n workflow that converts inbound leads into a structured su
 
 ```
 lead-support-automation/
-├── workflow/
+├── n8n workflow/
 │   └── lead-to-support-automation.json   # Import this into n8n
 ├── sample-payloads/
 │   ├── payload-01-high-urgency-company.json
